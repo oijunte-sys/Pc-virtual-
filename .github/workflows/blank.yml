@@ -1,6 +1,3 @@
-# virtual_pc.py
-# PC Virtual Gamer - VM com 20 GB RAM
-# Requer Linux + KVM/QEMU + libvirt
 
 import subprocess
 import os
